@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm havoc verbruggen</h1>
-<p align="center">💻 AI & Cybersecurity Enthusiast</p>
+<p align="center">💻 AI|Digital Forensic|Osint Enthusiastt</p>
 
 ---
 
